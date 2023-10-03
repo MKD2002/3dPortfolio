@@ -16,6 +16,7 @@ import {
     cpp,
     figma,
     tesla,
+    meta,
     shopify,
     carrent,
     jobit,
