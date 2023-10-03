@@ -16,7 +16,7 @@ import {
     cpp,
     figma,
     tesla,
-    meta,
+    blog,
     shopify,
     carrent,
     jobit,
@@ -166,9 +166,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "FixItWizards",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform with features like Chat Application in which users can chat through texts and can also send Images and Videos.",
       tags: [
         {
           name: "react",
@@ -184,40 +184,36 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/MKD2002/FixItWizards",
     },
     {
-      name: "Job IT",
+      name: "Nike",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A React.js based web application of a Nike Website with Tailwind CSS for styling and animations. It is a responsive web application",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/MKD2002/tailwind-nike",
     },
     {
-      name: "Trip Guide",
+      name: "Artistic-Essence-Blog-Website",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A Next.js based web application of a simple Blog Website. It has features like Light mode and Dark mode.",
       tags: [
         {
           name: "nextjs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "mongodb",
           color: "green-text-gradient",
         },
         {
@@ -225,8 +221,25 @@ import {
           color: "pink-text-gradient",
         },
       ],
+      image: blog,
+      source_code_link: "https://github.com/MKD2002/Artistic-Essence-Blog-Website",
+    },
+    {
+      name: "NewsMonkey-React",
+      description:
+        "A React based web application where we display News of different Category with the help of NewsAPI api.It contains features like top loading bar.",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "NewsAPI",
+          color: "green-text-gradient",
+        },
+      ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/MKD2002/NewsMonkey-React",
     },
   ];
   
