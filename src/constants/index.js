@@ -154,7 +154,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "While I was working on a project I got stuck somewhere and I asked for help from Mohit and he helped me resolve the problem with some kind of new method. His keen interest in learning new things always inspire me. I always learn something new from him.",
       name: "Mayank Agarwal",
       designation: " Full Stack Web Developer",
       company: "Classmate",
