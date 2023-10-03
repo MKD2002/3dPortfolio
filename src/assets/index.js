@@ -33,6 +33,8 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import blog from "./blogweb.png";
+import mayank from "./mayank.png";
+import rishabh from "./rishabh.png";
 
 export {
   logo,
@@ -51,6 +53,8 @@ export {
   html,
   javascript,
   mongodb,
+  mayank,
+  rishabh,
   nodejs,
   reactjs,
   redux,
