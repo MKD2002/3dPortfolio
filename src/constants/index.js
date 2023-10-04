@@ -17,6 +17,7 @@ import {
     figma,
     mayank,
     rishabh,
+    mohit,
     tesla,
     blog,
     shopify,
@@ -154,10 +155,18 @@ import {
     },
     {
       testimonial:
+        "Working with Mohit Kumar was a game-changer for one of my project. His knowledge in React.js helped me to resolve a error in my project  which made my website run once again.",
+      name: "Mohit Kukreja",
+      designation: "Frontend Engineer",
+      company: "",
+      image: mohit,
+    },
+    {
+      testimonial:
         "While I was working on a project I got stuck somewhere and I asked for help from Mohit and he helped me resolve the problem with some kind of new method. His keen interest in learning new things always inspire me. I always learn something new from him.",
       name: "Mayank Agarwal",
       designation: " Full Stack Web Developer",
-      company: "Classmate",
+      company: "",
       image: mayank,
     },
     {
@@ -165,7 +174,7 @@ import {
         "It was a pleasure collaborating with Mohit on a project. I wholeheartedly endorse him. His dedication, creativity, and teamwork ensured our project's success.",
       name: "Rishabh Verma",
       designation: "Frontend Developer",
-      company: "Team Elite",
+      company: "",
       image: rishabh,
     },
   ];

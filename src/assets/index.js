@@ -35,6 +35,7 @@ import tripguide from "./tripguide.png";
 import blog from "./blogweb.png";
 import mayank from "./mayank.png";
 import rishabh from "./rishabh.png";
+import mohit from "./mohit.png";
 
 export {
   logo,
@@ -55,6 +56,7 @@ export {
   mongodb,
   mayank,
   rishabh,
+  mohit,
   nodejs,
   reactjs,
   redux,
