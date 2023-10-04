@@ -32,11 +32,15 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import fcc from "./fcc.png";
+import IBM from "./IBM.png";
+import udemy from "./udemy.png";
 import blog from "./blogweb.png";
 import mayank from "./mayank.png";
 import rishabh from "./rishabh.png";
 import mohit from "./mohit.png";
 import parth from "./parth.png";
+import link from './link.png'
 
 export {
   logo,
@@ -45,6 +49,7 @@ export {
   mobile,
   web,
   github,
+  link,
   menu,
   close,
   css,
@@ -70,6 +75,9 @@ export {
   starbucks,
   tesla,
   carrent,
+  fcc,
+  IBM,
+  udemy,
   jobit,
   tripguide,
   blog,

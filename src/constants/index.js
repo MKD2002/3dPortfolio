@@ -25,6 +25,9 @@ import {
     carrent,
     jobit,
     tripguide,
+    IBM,
+    udemy,
+    fcc
   } from "../assets";
   
   export const navLinks = [
@@ -266,5 +269,45 @@ import {
       source_code_link: "https://github.com/MKD2002/NewsMonkey-React",
     },
   ];
-  
-  export { services, technologies, experiences, testimonials, projects };
+  const certificates = [
+    {
+      name: "The Complete 2023 Web Development Bootcamp",
+      description:
+        "A certification course on Udemy by Angela Yu where she covers all the web development technologies used.",
+      tags: [
+        {
+          name: "Udemy",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: udemy,
+      source_code_link: "https://www.udemy.com/certificate/UC-d6dc8028-2ae6-49d6-ae1c-7be71a202d42/",
+    },
+    {
+      name: "Front End Development Libraries",
+      description:
+        "A certification course on FreeCodeCamp where they cover all the Frontend Development Libraries like React.js, Bootstrap, Sass, jQuery etc.",
+      tags: [
+        {
+          name: "FreeCodeCamp",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: fcc,
+      source_code_link: "https://www.freecodecamp.org/certification/Mohit_Kumar_29750/front-end-development-libraries",
+    },
+    {
+      name: "SQL: A Practical Introduction for Querying Databases",
+      description:
+        "A SQL certification course on Coursera where they cover the basics introduction and commands of SQL.",
+      tags: [
+        {
+          name: "Coursera:IBM",
+          color: "green-text-gradient",
+        },
+      ],
+      image: IBM,
+      source_code_link: "https://www.coursera.org/account/accomplishments/certificate/ZN9D3AV86DGF",
+    },
+  ];
+  export { services, technologies, experiences, testimonials, projects, certificates };
