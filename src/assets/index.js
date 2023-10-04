@@ -36,6 +36,7 @@ import blog from "./blogweb.png";
 import mayank from "./mayank.png";
 import rishabh from "./rishabh.png";
 import mohit from "./mohit.png";
+import parth from "./parth.png";
 
 export {
   logo,
@@ -57,6 +58,7 @@ export {
   mayank,
   rishabh,
   mohit,
+  parth,
   nodejs,
   reactjs,
   redux,
