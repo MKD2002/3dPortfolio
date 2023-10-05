@@ -63,7 +63,7 @@ import {
       icon: backend,
     },
     {
-      title: "Aspiring Software Developer",
+      title: "Problem Solver",
       icon: creator,
     },
   ];
@@ -137,7 +137,7 @@ import {
       title: "FullStack Web Developer | Team Leader",
       company_name: "FixItWizards",
       icon: tesla,
-      iconBg: "#383E56",
+      iconBg: "#000000",
       date: "September 2023 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
@@ -212,6 +212,7 @@ import {
       ],
       image: carrent,
       source_code_link: "https://github.com/MKD2002/FixItWizards",
+      project_link:""
     },
     {
       name: "Nike",
@@ -229,6 +230,7 @@ import {
       ],
       image: jobit,
       source_code_link: "https://github.com/MKD2002/tailwind-nike",
+      project_link:"https://tailwind-nike-nine.vercel.app/"
     },
     {
       name: "Artistic-Essence-Blog-Website",
@@ -250,6 +252,7 @@ import {
       ],
       image: blog,
       source_code_link: "https://github.com/MKD2002/Artistic-Essence-Blog-Website",
+      project_link:"https://blog-website-mkd2002.vercel.app/"
     },
     {
       name: "NewsMonkey-React",
@@ -267,6 +270,7 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://github.com/MKD2002/NewsMonkey-React",
+      project_link:""
     },
   ];
   const certificates = [
