@@ -10,6 +10,7 @@ import {
     reactjs,
     nextjs,
     tailwind,
+    express,
     nodejs,
     mongodb,
     git,
@@ -116,6 +117,10 @@ import {
     {
       name: "Python",
       icon: python
+    },
+    {
+      name: "express",
+      icon: express
     }
   ];
   

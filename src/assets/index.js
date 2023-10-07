@@ -23,6 +23,7 @@ import threejs from "./tech/threejs.svg";
 import nextjs from "./tech/nextjs.png";
 import cpp from "./tech/cpp.png";
 import python from "./tech/python.png";
+import express from "./tech/express.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -82,5 +83,6 @@ export {
   tripguide,
   blog,
   cpp,
-  python
+  python,
+  express
 };
