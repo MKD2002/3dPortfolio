@@ -138,19 +138,6 @@ import {
         "Applying features like Chatbot and Payment Gateway Through Razorpay etc.",
       ],
     },
-    {
-      title: "FullStack Web Developer | Team Leader",
-      company_name: "FixItWizards",
-      icon: tesla,
-      iconBg: "#000000",
-      date: "September 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Creating high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Applying features like Chatbot and Payment Gateway Through Razorpay etc.",
-      ],
-    },
   ];
   
   const testimonials = [
