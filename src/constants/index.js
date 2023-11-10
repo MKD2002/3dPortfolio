@@ -167,7 +167,7 @@ import {
     },
     {
       testimonial:
-        "Working with mohit was an amazing experience. As I face the problem he is always ready to help.He is a great team player and a great developer. He is always ready to learn new things and always ready to help others.",
+        "Working with Mohit was an amazing experience. As I face the problem he is always ready to help.He is a great team player and a great developer. He is always ready to learn new things and always ready to help others.",
       name: "Parth Bijpuriya",
       designation: "MERN Developer",
       company: "",
