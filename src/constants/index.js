@@ -15,6 +15,7 @@ import {
     mongodb,
     git,
     cpp,
+    appwrite,
     figma,
     mayank,
     rishabh,
@@ -263,6 +264,28 @@ import {
       image: tripguide,
       source_code_link: "https://github.com/MKD2002/NewsMonkey-React",
       project_link:""
+    },
+    {
+      name: "Chat-Appwrite",
+      description:
+        "A React based web chat room used with appwrite as backend. It contains realtime chat feature.",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name:"Tailwindcss",
+          color:"green-text-gradient"
+        },
+        {
+          name: "Appwrite",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: appwrite,
+      source_code_link: "https://github.com/MKD2002/chat-appwrite.git",
+      project_link:"https://chat-appwrite.vercel.app"
     },
   ];
   const certificates = [

@@ -33,6 +33,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import appwrite from "./appwrite.png";
 import fcc from "./fcc.png";
 import IBM from "./IBM.png";
 import udemy from "./udemy.png";
@@ -48,6 +49,7 @@ export {
   backend,
   creator,
   mobile,
+  appwrite,
   web,
   github,
   link,
